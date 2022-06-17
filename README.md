@@ -1,6 +1,3 @@
-<img align="center" width=150px height=150px alt="side_sticker" src="https://thumbs.gfycat.com/RingedNiceFugu-size_restricted.gif" />
-
-
 <br />
 <h2 align="center">
   Languages - Tools
