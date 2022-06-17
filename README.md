@@ -10,6 +10,14 @@
 <a href="#"><img src="./c.png" width="40"/></a>
 <a href="#"><img src="./github.png" width="40"/></a>
 <a href="#"><img src="./bash.png" width="40"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=x86_64+Arch_Linux;&center=false&width=500&height=50"></a>
+
+<br />
+<h2 align="center">
+  Future Learnings
+ </h2>
+ <a href="#"><img src="./openGL.png" width="40"/></a>
+
 <br />
 <h2 align="center">
   System | Architecture
