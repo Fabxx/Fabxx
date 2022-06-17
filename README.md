@@ -3,5 +3,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revix-0&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![C++]]https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
+![cpp](https://user-images.githubusercontent.com/30447649/174355826-5b4061a5-7d90-4615-96f3-ea34c628b9a2.png)
 
