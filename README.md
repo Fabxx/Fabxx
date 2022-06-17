@@ -2,7 +2,8 @@
 <h2 align="center">
   Languages
  </h2>
- ![c](https://user-images.githubusercontent.com/30447649/174400400-5967840a-4781-43e5-aca9-4c6eaca4d819.png)
+
+![c](https://user-images.githubusercontent.com/30447649/174400400-5967840a-4781-43e5-aca9-4c6eaca4d819.png)
 ![cplusplus](https://user-images.githubusercontent.com/30447649/174400406-f07387fa-1546-413b-87c4-e9721975f80e.png)
 
 
