@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="150%"/></a></p>
+
 <a href="#"><img src="./cpp.png" width="40"/></a>
 <a href="#"><img src="./c.png" width="40"/></a>
 <a href="#"><img src="./github.png" width="40"/></a>
