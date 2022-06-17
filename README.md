@@ -1,4 +1,4 @@
-<img align="center" width=100px height=100px alt="side_sticker" src="https://thumbs.gfycat.com/RingedNiceFugu-size_restricted.gif" />
+<img align="center" width=150px height=150px alt="side_sticker" src="https://thumbs.gfycat.com/RingedNiceFugu-size_restricted.gif" />
 
 
 <br />
