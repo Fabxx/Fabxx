@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<br />
+<h2 align="center">
+  Languages
+ </h2>
 
 ![Revix's GitHub stats](https://github-readme-stats.vercel.app/api?username=revix-0&show_icons=true&theme=chartreuse-dark)
 
