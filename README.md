@@ -5,6 +5,11 @@
 <a href="#"><img src="./cplusplus.png" width="40"/></a>
 <a href="#"><img src="./c.png" width="40"/></a>
 
+<br />
+<h2 align="center">
+  Stats
+ </h2>
+
 
 ![Revix's GitHub stats](https://github-readme-stats.vercel.app/api?username=revix-0&show_icons=true&theme=chartreuse-dark)
 
