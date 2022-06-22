@@ -7,6 +7,7 @@
 <a href="#"><img src="./c.png" width="40"/></a>
 <a href="#"><img src="./github_logo.png" width="40"/></a>
 <a href="#"><img src="./bash.png" width="40"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C+C+++Git+Bash;&center=false&width=500&height=50"></a>
 
 <br />
 <h2 align="center">
