@@ -10,7 +10,7 @@
   Future Learnings
  </h2>
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=OpenGL+|+SDL+|+ImGui;&center=false&width=200&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=OpenGL+|+SDL+|+ImGui;&center=false&width=250&height=50"></a>
 
 <br />
 <h2 align="center">
