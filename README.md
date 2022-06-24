@@ -33,11 +33,8 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F8c%2F8cd3f1898255c045143e1da97fbabf10_w200.gif&f=1&nofb=1" height="20" width="1000">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Crysis+EE+Modpack:;&center=false&width=1100&height=50"></a>
  https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
- 
- 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CB+NSane+Trilogy+Retrò+Pack:;&center=false&width=1100&height=50"></a>
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/23
-
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Colin+McRae+Rally+2.0+ModPack:;&center=false&width=1100&height=50"></a>
 
 
