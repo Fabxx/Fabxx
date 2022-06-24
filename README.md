@@ -30,7 +30,7 @@
 <h2 align="center">
   Game Mods | Hobbie Projects
  </h2>
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"width="100%"></a>
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Crysis+EE+Modpack:;&center=false&width=1100&height=50"></a>
  https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CB+NSane+Trilogy+Retrò+Pack:;&center=false&width=1100&height=50"></a>
