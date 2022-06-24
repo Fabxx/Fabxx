@@ -37,4 +37,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revix-0&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href=https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg>
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
