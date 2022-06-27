@@ -7,22 +7,22 @@
 <br />
 <h2 align="center">
   Operating Systems | Virtual Machines
- </h2>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F8c%2F8cd3f1898255c045143e1da97fbabf10_w200.gif&f=1&nofb=1" height="20" width="1000">
+
+<img src=lines.gif height="20" width="1000">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+|+Windows+|+Android+|+VMWare+|+Virt-Manager;&center=false&width=700&height=50"></a>
 
 <br />
 <h2 align="center">
   Projects | Contributions
- </h2>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F8c%2F8cd3f1898255c045143e1da97fbabf10_w200.gif&f=1&nofb=1" height="20" width="1000">
+
+<img src=lines.gif height="20" width="1000">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Xemu:+Original+xbox+emulator+|+PhysxCalc:+Physx+Calculator+|+Programming_Languages;&center=false&width=1100&height=50"></a>
 
  <br />
 <h2 align="center">
   Game Mods | Hobbie Projects
- </h2>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F8c%2F8cd3f1898255c045143e1da97fbabf10_w200.gif&f=1&nofb=1" height="20" width="1000">
+
+<img src=lines.gif height="20" width="1000">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Crysis+EE+Modpack:;&center=false&width=1100&height=50"></a>
  https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CB+NSane+Trilogy+Retrò+Pack+|+BlueCrash+Skin:;&center=false&width=1100&height=50"></a>
@@ -41,8 +41,8 @@ https://www.moddb.com/mods/wrc-liveries-mod-pack
 <br />
 <h2 align="center">
   Stats
- </h2>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F8c%2F8cd3f1898255c045143e1da97fbabf10_w200.gif&f=1&nofb=1" height="20" width="1000">
+
+<img src=lines.gif height="20" width="1000">
 
 ![Revix's GitHub stats](https://github-readme-stats.vercel.app/api?username=revix-0&show_icons=true&theme=chartreuse-dark)
 
