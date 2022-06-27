@@ -4,14 +4,6 @@
  </h2>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F8c%2F8cd3f1898255c045143e1da97fbabf10_w200.gif&f=1&nofb=1" height="20" width="1000">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C+|+Cpp+|+Git+|+Bash;&center=false&width=300&height=50"></a>
-
-<br />
-<h2 align="center">
-  Future Learnings
- </h2>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F8c%2F8cd3f1898255c045143e1da97fbabf10_w200.gif&f=1&nofb=1" height="20" width="1000">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Unreal+Engine;&center=false&width=300&height=50"></a>
-
 <br />
 <h2 align="center">
   Operating Systems | Virtual Machines
