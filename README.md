@@ -41,6 +41,7 @@ https://www.moddb.com/mods/wrc-liveries-mod-pack
   Stats
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="100">
+
 ![Revix GitHub stats](https://github-readme-stats.vercel.app/api?username=revix-0&show_icons=true&theme=chartreuse-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revix-0&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
