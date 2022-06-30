@@ -37,6 +37,7 @@ https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/24
  https://www.moddb.com/mods/colin-mcrae-rally-20-official-wrc-liveries
  
   <img src="CMR05mod.gif?raw=true" width="300" height="30">    <img src="CMR05Compat.gif?raw=true" width="300" height="30">
+
 https://www.moddb.com/mods/wrc-liveries-mod-pack
 
  <img src="Watch_Dogs.gif?raw=true" width="300" height="30">
