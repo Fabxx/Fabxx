@@ -23,9 +23,9 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=636363&lines=</+Game+Mods+\>;&center=true&width=500&height=50"></a>
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="100">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Crysis+EE+Modpack:;&center=false&width=1100&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Crysis+EE+Modpack:;&center=true&width=1100&height=50"></a>
  https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=CB+NSane+Trilogy+Retrò+Pack+|+BlueCrash+Skin:;&center=false&width=1100&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=CB+NSane+Trilogy+Retrò+Pack+|+BlueCrash+Skin:;&center=true&width=1100&height=50"></a>
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/23
 
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/24
