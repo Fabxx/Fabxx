@@ -3,7 +3,7 @@
  Languages - Tools
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="100">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C+|+Cpp+|+Git+|+Bash;&center=false&color=FFFFFF&width=300&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C+|+Cpp+|+Git+|+Bash;&center=false&color=0173BD&width=300&height=50"></a>
 <br />
 <h2 align="center">
   Operating Systems | Virtual Machines
