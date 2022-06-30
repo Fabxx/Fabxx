@@ -28,7 +28,7 @@
 
  <img src="Crysismod.gif?raw=true" width="300" height="30">
  https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
- <img src="Crashmod.gif?raw=true" width="300" height="30">
+ <img src="crashmod.gif?raw=true" width="300" height="30">
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/23
 
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/24
