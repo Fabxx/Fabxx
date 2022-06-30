@@ -2,7 +2,7 @@
 <h2 align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=636363&lines=</+Languages+~+Tools+\>;&center=true&width=500&height=50"></a>
  </h2>
-<img src="lines.gif?raw=true" width="1000" height="60">
+<img src="lines.gif?raw=true" width="1000" height="20">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=0173BD&lines=C+|+Cpp+|+Git+|+Bash;&center=false&width=300&height=50"></a>
 <br />
 <h2 align="center">
