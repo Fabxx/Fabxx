@@ -29,14 +29,14 @@
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/23
 
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/24
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Colin+McRae+Rally+2.0+ModPack:;&center=false&width=1100&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Colin+McRae+Rally+2.0+ModPack:;&center=true&width=1100&height=50"></a>
  https://www.moddb.com/mods/colin-mcrae-rally-20-official-wrc-liveries
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Colin+McRae+Rally+2005+ModPack:;&center=false&width=1100&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Colin+McRae+Rally+2005+ModPack:;&center=true&width=1100&height=50"></a>
 https://www.moddb.com/mods/wrc-liveries-mod-pack
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Watch+Dogs+E3+Demos+Pack+(WIP+Private);&center=false&width=1100&height=50"></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Crysis+2+Modpack;&center=false&width=1100&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Watch+Dogs+E3+Demos+Pack+(WIP+Private);&center=true&width=1100&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Crysis+2+Modpack;&center=true&width=1100&height=50"></a>
  https://www.moddb.com/mods/crysis-2-c1-suit-sfx-more
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=REDriver2+Rims+Pack;&center=false&width=1100&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=REDriver2+Rims+Pack;&center=true&width=1100&height=50"></a>
  https://mega.nz/file/5b4nzRDQ#SqSuTIPwTPnuxMZDUjQFon3ftFVmEsyZqrP7JTmVazg
 <br />
 <h2 align="center">
