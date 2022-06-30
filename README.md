@@ -1,5 +1,4 @@
 <img src="hello.jpg?raw=true" width="500" height="30">
-<img src="reading.jpg?raw=true" width="200" height="200">
 
 <br />
 <h2 align="center">
