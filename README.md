@@ -21,7 +21,7 @@
 
  <br />
 <h2 align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=</+Game+Mods+\>;&center=true&width=500&height=50"></a>
+<img src="bluetextalt4.gif?raw=true" width="300" height="30">
  </h2>
  
 <img src="lines.gif?raw=true" width="1000" height="40">
