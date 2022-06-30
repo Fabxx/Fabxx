@@ -1,5 +1,5 @@
 <img src="hello.jpg?raw=true" width="500" height="30">
-<img src="reading.jpg?raw=true" width="500" height="30">
+<img src="reading.jpg?raw=true" width="500" height="100">
 
 <br />
 <h2 align="center">
