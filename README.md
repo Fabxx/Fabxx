@@ -1,6 +1,6 @@
 <br />
 <h2 align="center">
-<img src="title2.gif?raw=true" width="350" height="70">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=F7F7F7&lines=Languages+/+Tools;&center=false&width=300&height=50"></a>
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="100">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=0173BD&lines=C+|+Cpp+|+Git+|+Bash;&center=false&width=300&height=50"></a>
