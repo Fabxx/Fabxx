@@ -21,7 +21,7 @@
 
  <br />
 <h2 align="center">
-<img src="bluetextalt4.gif?raw=true" width="300" height="30">
+<img src="bluetextalt4.gif?raw=true" width="200" height="30">
  </h2>
  
 <img src="lines.gif?raw=true" width="1000" height="40">
