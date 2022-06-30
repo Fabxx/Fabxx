@@ -24,6 +24,7 @@
  </h2>
  
 <img src="lines.gif?raw=true" width="1000" height="30">
+
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Crysis+EE+Modpack:;&center=true&width=1100&height=50"></a>
  https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CB+NSane+Trilogy+Retrò+Pack+|+BlueCrash+Skin:;&center=false&width=1100&height=50"></a>
