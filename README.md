@@ -42,7 +42,7 @@ https://www.moddb.com/mods/wrc-liveries-mod-pack
 
 <img src="Watch_Dogs.gif?raw=true" width="300" height="30">
  
-<img src="Crysis2.gif?raw=true" width="100" height="30">
+<img src="Crysis2.gif?raw=true" width="150" height="30">
  https://www.moddb.com/mods/crysis-2-c1-suit-sfx-more
  
 <img src="REDriver2.gif?raw=true" width="300" height="30">
