@@ -1,26 +1,26 @@
 <br />
 <h2 align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=636363&lines=</+Languages+~+Tools+\>;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=</+Languages+~+Tools+\>;&center=true&width=500&height=50"></a>
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="30">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=0173BD&lines=C+|+Cpp+|+Git+|+Bash;&center=false&width=300&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C+|+Cpp+|+Git+|+Bash;&center=false&width=300&height=50"></a>
 <br />
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=636363&lines=</+Operating+Systems+~+VMs+\>;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=</+Operating+Systems+~+VMs+\>;&center=true&width=500&height=50"></a>
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="30">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Linux+|+Windows+|+Android+|+VMWare+|+Virt-Manager;&center=false&width=700&height=50"></a>
 
 <br />
 <h2 align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=636363&lines=</+Projects+~+Contributions+\>;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=</+Projects+~+Contributions+\>;&center=true&width=500&height=50"></a>
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="30">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0173BD&lines=Xemu:+Original+xbox+emulator+|+PhysxCalc:+Physx+Calculator+|+Programming_Languages;&center=false&width=1100&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Xemu:+Original+xbox+emulator+|+PhysxCalc:+Physx+Calculator+|+Programming_Languages;&center=false&width=1100&height=50"></a>
 
  <br />
 <h2 align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&color=636363&lines=</+Game+Mods+\>;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=</+Game+Mods+\>;&center=true&width=500&height=50"></a>
  </h2>
  
 <img src="lines.gif?raw=true" width="1000" height="30">
