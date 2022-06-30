@@ -28,21 +28,21 @@
 
  <img src="Crysismod.gif?raw=true" width="300" height="30">
  https://www.moddb.com/mods/crysis-enhanced-edition/addons/add-on-pack-for-ee
+ 
  <img src="crashmod.gif?raw=true" width="300" height="30">
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/23
-
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/24
 
  <img src="CMR2mod.gif?raw=true" width="300" height="30">
  https://www.moddb.com/mods/colin-mcrae-rally-20-official-wrc-liveries
  
-  <img src="CMR05mod.gif?raw=true" width="300" height="30">    <img src="CMR05Compat.gif?raw=true" width="300" height="30">
+<img src="CMR05mod.gif?raw=true" width="300" height="30">    <img src="CMR05Compat.gif?raw=true" width="300" height="30">
 
 https://www.moddb.com/mods/wrc-liveries-mod-pack
 
- <img src="Watch_Dogs.gif?raw=true" width="300" height="30">
+<img src="Watch_Dogs.gif?raw=true" width="300" height="30">
  
- <img src="Crysis2.gif?raw=true" width="200" height="30">
+<img src="Crysis2.gif?raw=true" width="100" height="30">
  https://www.moddb.com/mods/crysis-2-c1-suit-sfx-more
  
 <img src="REDriver2.gif?raw=true" width="300" height="30">
