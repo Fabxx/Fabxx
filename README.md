@@ -1,7 +1,7 @@
 <img src="hello.jpg?raw=true" width="500" height="30">
 <img src="var1.jpg?raw=true" width="200" height="20">
 <img src="var2.jpg?raw=true" width="200" height="20">
-<img src="var3.jpg?raw=true" width="200" height="30">
+<img src="var3.jpg?raw=true" width="200" height="50">
 
 <br />
 <h2 align="center">
