@@ -7,7 +7,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C+|+Cpp+|+Git+|+Bash;&center=false&width=300&height=50"></a>
 <br />
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=</+Operating+Systems+~+VMs+\>;&center=true&width=500&height=50"></a>
+ <img src="bluetext2alt.gif?raw=true" width="300" height="30">
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="30">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+|+Windows+|+Android+|+VMWare+|+Virt-Manager;&center=false&width=700&height=50"></a>
