@@ -47,7 +47,7 @@ https://www.moddb.com/mods/wrc-liveries-mod-pack
  
  <img src="Watch_Dogs.gif?raw=true" width="300" height="30">
  
-<img src="ACRevelations.gif?raw=true" width="300" height="30">
+<img src="ACRevelations.gif?raw=true" width="400" height="30">
  https://www.nexusmods.com/assassinscreedrevelations/mods/28/?tab=description
  
 <br />
