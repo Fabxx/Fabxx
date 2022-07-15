@@ -45,10 +45,11 @@ https://www.moddb.com/mods/wrc-liveries-mod-pack
 <img src="REDriver2.gif?raw=true" width="300" height="30">
  https://mega.nz/file/5b4nzRDQ#SqSuTIPwTPnuxMZDUjQFon3ftFVmEsyZqrP7JTmVazg
  
- <img src="Watch_Dogs.gif?raw=true" width="300" height="30">
- 
 <img src="ACRevelations.gif?raw=true" width="400" height="30">
  https://www.nexusmods.com/assassinscreedrevelations/mods/28/?tab=description
+ 
+ <img src="ACBrotherhood.gif?raw=true" width="400" height="30">
+ https://www.nexusmods.com/assassinscreedbrotherhood/mods/49/?tab=posts
  
 <br />
 <h2 align="center">
