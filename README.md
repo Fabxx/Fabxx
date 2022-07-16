@@ -47,7 +47,8 @@ https://www.moddb.com/mods/wrc-liveries-mod-pack
  
 <img src="ACRevelations.gif?raw=true" width="400" height="30">
  https://www.nexusmods.com/assassinscreedrevelations/mods/28/?tab=description
- https://www.nexusmods.com/assassinscreedrevelations/mods/30/?tab=description
+ 
+https://www.nexusmods.com/assassinscreedrevelations/mods/30/?tab=description
  
  <img src="ACBrotherhood.gif?raw=true" width="400" height="30">
  https://www.nexusmods.com/assassinscreedbrotherhood/mods/49/?tab=posts
