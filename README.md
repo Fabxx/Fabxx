@@ -2,17 +2,20 @@
 <h2 align="center">
 <img src="bluetext1alt.gif?raw=true" width="300" height="30">
  <img src="lines.gif?raw=true" width="1000" height="30">
+ <img src="cpp.png" width="64" height="64"> <img src="C1.png" width="64" height="64"> <img src="GL.png" width="64" height="64">
  </h2>
 
 
-<img src="cpp.png" width="64" height="64"> <img src="C1.png" width="64" height="64"> <img src="GL.png" width="64" height="64">
+
 
 <br />
 <h2 align="center">
  <img src="bluetextalt2.gif?raw=true" width="350" height="30">
+ <img src="lines.gif?raw=true" width="1000" height="30">
  </h2>
-<img src="lines.gif?raw=true" width="1000" height="30">
+
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+|+Windows+|+Android+|+VMWare+|+Virt-Manager;&center=false&width=700&height=50"></a>
+<img src="tux.png" width="64" height="64"> <img src="windows.png" width="64" height="64"> <img src="android.png" width="64" height="64"> <img src="vmware.png" width="64" height="64">
 
 <br />
 <h2 align="center">
