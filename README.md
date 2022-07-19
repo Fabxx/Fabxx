@@ -21,7 +21,7 @@
 <h2 align="center">
 <img src="bluetextalt3.gif?raw=true" width="300" height="30">
 <img src="lines.gif?raw=true" width="1000" height="30">
-<img src="xemu.png" width="64" height="64">
+<img src="xemu.png" width="128" height="128">
  </h2>
 
 
