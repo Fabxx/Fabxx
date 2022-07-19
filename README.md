@@ -20,11 +20,10 @@
 <br />
 <h2 align="center">
 <img src="bluetextalt3.gif?raw=true" width="300" height="30">
- </h2>
 <img src="lines.gif?raw=true" width="1000" height="30">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Xemu:+Original+xbox+emulator;&center=false&width=1100&height=50"></a>
+<img src="xemu.png" width="64" height="64">
+ </h2>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Languages;&center=false&width=1100&height=50"></a>
 
  <br />
 <h2 align="center">
