@@ -8,7 +8,8 @@
 <br />
 <h2 align="center">
  <img src="sneak.gif?raw=true" width="200" height="30">
+  <img src="lines.gif?raw=true" width="1000" height="30">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
  </h2>
  
-<img src="lines2.gif?raw=true" width="1000" height="100">
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+
