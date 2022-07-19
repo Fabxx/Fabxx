@@ -1,2 +1,2 @@
-make lines.gif in markdown with width="100" height="1000" so they will appear
+make lines.gif in markdown with width="1000" height="40" so they will appear
 if the number is too small they will not appear.
