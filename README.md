@@ -5,7 +5,7 @@
  </h2>
 
 
-<img src="cpp.png" width="64" height="64"> <img src="C1.png" width="64" height="64"> <img src="GL.png" width="64" height="64">
+<img src="cpp.png" width="64" height="64"> <img src="C1.png" width="64" height="64"> <img src="GL2.png" width="64" height="64">
 
 <br />
 <h2 align="center">
