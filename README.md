@@ -3,7 +3,7 @@
 <h2 align="center">
  <img src="lines.gif?raw=true" width="1000" height="30">
  </h2>
-
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=6000&color=0494F7&center=true&vCenter=true&width=1000&lines=%3C+Snake+Game+%3E)](https://git.io/typing-svg)
 <br />
 <h2 align="center">
