@@ -1,4 +1,4 @@
-<img src="c.png" width="64" height="64">
+<img src="cpp.png" width="64" height="64">
 
 <br />
 <h2 align="center">
