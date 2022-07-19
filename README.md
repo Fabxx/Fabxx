@@ -1,3 +1,5 @@
+<img src="C.png" width="64" height="64">
+
 <br />
 <h2 align="center">
 <img src="bluetext1alt.gif?raw=true" width="300" height="30">
