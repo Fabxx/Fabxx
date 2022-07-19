@@ -1,11 +1,10 @@
-<img src="cpp.png" width="64" height="64">
-
 <br />
 <h2 align="center">
 <img src="bluetext1alt.gif?raw=true" width="300" height="30">
  </h2>
 <img src="lines.gif?raw=true" width="1000" height="30">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C+|+Cpp+|+OpenGL-GLSL;&center=false&width=600&height=50"></a>
+<img src="cpp.png" width="64" height="64">
+
 <br />
 <h2 align="center">
  <img src="bluetextalt2.gif?raw=true" width="350" height="30">
