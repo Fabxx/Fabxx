@@ -1,16 +1,19 @@
-<br />
-<h2 align="center">
- <img src="lines.gif?raw=true" width="1000" height="40">
-</h2>
+# My contributions
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=10000&color=0494F7&center=true&vCenter=true&width=1000&height=100&lines=%3C+Personal+Projects+%3E)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=10000&color=0494F7&center=true&vCenter=true&width=1000&height=100&lines=-Programming+Languages)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=10000&color=0494F7&center=true&vCenter=true&width=1000&height=100&lines=-GSG)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=10000&color=0494F7&center=true&vCenter=true&width=1000&height=100&lines=-XBMC360)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=10000&color=0494F7&center=true&vCenter=true&width=1000&height=100&lines=-PhysxCalc)](https://git.io/typing-svg)
+[#1309](https://github.com/xemu-project/xemu/pull/1309) 
 
-<br />
-<h2 align="center">
- <img src="lines.gif?raw=true" width="1000" height="40">
-</h2>
+[#1307](https://github.com/xemu-project/xemu/pull/1307) 
 
+[#1301](https://github.com/xemu-project/xemu/pull/1301) 
+
+[#1122](https://github.com/xemu-project/xemu/pull/1122)
+
+# My projects
+
+[GSG](https://github.com/Fabxx/GSG)
+
+[XBMC360](https://github.com/Fabxx/XBMC360)
+
+[T.P.M.I.C](https://github.com/Fabxx/T.P.M.I.C-University-Project-)
+
+[PhysXCalc](https://github.com/Fabxx/PhysXCalc)
