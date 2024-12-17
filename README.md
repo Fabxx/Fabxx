@@ -16,7 +16,7 @@
 
 # My projects
 
-[GSG - Game Script Generator](https://github.com/Fabxx/GSG)
+[ASG - Application Script Generator](https://github.com/Fabxx/ASG)
 
 [XBMC360 - Xbox 360 Blades Dashboard on PC](https://github.com/Fabxx/XBMC360)
 
