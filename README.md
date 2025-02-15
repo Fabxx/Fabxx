@@ -16,6 +16,8 @@
 
 # My projects
 
+[LCL - Libretro Core Launchers](https://github.com/Fabxx/LCL)
+
 [ASG - Application Script Generator](https://github.com/Fabxx/ASG)
 
 [XBMC360 - Xbox 360 Blades Dashboard on PC](https://github.com/Fabxx/XBMC360)
