@@ -16,6 +16,8 @@
 
 # My projects
 
+[PowerPC Altivec IDAPython](https://github.com/Fabxx/PPC-Altivec-IDAPython)
+
 [LCL - Libretro Core Launchers](https://github.com/Fabxx/LCL)
 
 [ASG - Application Script Generator](https://github.com/Fabxx/ASG)
